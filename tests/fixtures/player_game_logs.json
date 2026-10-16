@@ -1,0 +1,18 @@
+[
+  {
+    "SEASON_YEAR": "2025-26", "PLAYER_ID": 1001, "PLAYER_NAME": "Fixture Player",
+    "TEAM_ID": 1610612742, "TEAM_ABBREVIATION": "DAL", "GAME_ID": "0022500001",
+    "GAME_DATE": "2025-10-21T00:00:00", "MATCHUP": "DAL vs. BOS", "WL": "W",
+    "MIN": 25.5, "PTS": 15, "FGM": 5, "FGA": 10, "FG3M": 2, "FG3A": 5,
+    "FTM": 3, "FTA": 4, "OREB": 1, "DREB": 4, "REB": 5, "AST": 3,
+    "STL": 1, "BLK": 0, "TOV": 2, "PF": 3, "PLUS_MINUS": -7
+  },
+  {
+    "SEASON_YEAR": "2025-26", "PLAYER_ID": 1001, "PLAYER_NAME": "Fixture Player",
+    "TEAM_ID": 1610612738, "TEAM_ABBREVIATION": "BOS", "GAME_ID": "0022500800",
+    "GAME_DATE": "2026-02-10T00:00:00", "MATCHUP": "BOS @ DAL", "WL": "L",
+    "MIN": "00:01", "PTS": 0, "FGM": 0, "FGA": 0, "FG3M": 0, "FG3A": 0,
+    "FTM": 0, "FTA": 0, "OREB": 0, "DREB": 0, "REB": 0, "AST": 0,
+    "STL": 0, "BLK": 0, "TOV": 0, "PF": 0, "PLUS_MINUS": 0
+  }
+]
